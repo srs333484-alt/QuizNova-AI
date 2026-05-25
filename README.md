@@ -77,16 +77,3 @@ python main.py
 
 
 
-
-LIVE PROJECT DEMO:
-
-
-
-Click below link to test the project directly:
-
-
-
-https://your-replit-link
-
-
-
